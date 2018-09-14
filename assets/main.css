@@ -1,9 +1,7 @@
 body {
     line-height: 30px;
-    background-image: url("C:\Users\SMU Bootcsmp\Github\firebase\Firebase-Assignment---Train-Scheduler\assets\img\background.png");
-    background-size: cover;
-    background-position: center;
-    color: green;
+    background: url("img/background.png") no-repeat fixed center;
+    color: rgb(193, 240, 193);
     background-color: black;
     width: 100%;
     padding: 0px;
@@ -16,15 +14,15 @@ body {
 }
 
 h1{
-    text-shadow: 2px 2px 2px yellowgreen;
+    text-shadow: 2px 2px 2px rgb(25, 27, 19);
 }
 
 h1, h3, .panel-title, .panel-body {
-    color: darkgreen;
+    color: rgb(158, 241, 158);
 }
 
 th, h2 {
-    color: green !important;
+    color: rgb(158, 241, 158)!important;
 }
 
 tr:hover {
